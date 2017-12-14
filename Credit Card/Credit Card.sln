@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Credit Card", "Credit Card\Credit Card.vbproj", "{B461DFF9-401B-4652-83EF-460CCAC4E1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B461DFF9-401B-4652-83EF-460CCAC4E1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B461DFF9-401B-4652-83EF-460CCAC4E1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B461DFF9-401B-4652-83EF-460CCAC4E1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B461DFF9-401B-4652-83EF-460CCAC4E1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+c:\users\beza\documents\visual studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.exe.config
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.exe
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.pdb
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.xml
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit_Card.frmCrediCard.resources
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit_Card.Resources.resources
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.vbproj.GenerateResource.Cache
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.exe
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.xml
+C:\Users\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.exe.config
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\bin\Debug\Credit Card.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit_Card.frmCrediCard.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit_Card.Resources.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Credit Card\Credit Card\obj\Debug\Credit Card.vbproj.GenerateResource.Cache
