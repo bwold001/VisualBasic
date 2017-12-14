@@ -1,0 +1,20 @@
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.exe.config
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.exe
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.pdb
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.xml
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.frmAnalyzeMortgage.resources
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.Resources.resources
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.vbproj.GenerateResource.Cache
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.exe
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.xml
+c:\users\beza\documents\visual studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.exe.config
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\bin\Debug\AnalyzeMortgage.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.frmAnalyzeMortgage.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.Resources.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\AnalyzeMortgage\AnalyzeMortgage\obj\Debug\AnalyzeMortgage.vbproj.GenerateResource.Cache
