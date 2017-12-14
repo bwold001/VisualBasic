@@ -1,0 +1,20 @@
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.Resources.resources
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.vbproj.GenerateResource.Cache
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.xml
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb
+c:\users\beza\documents\visual studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.frmWageCalculator.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.Resources.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.frmWageCalculator.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.vbproj.GenerateResource.Cache
