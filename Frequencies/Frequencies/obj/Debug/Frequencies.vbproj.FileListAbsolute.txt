@@ -1,0 +1,20 @@
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.exe.config
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.exe
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.pdb
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.xml
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.frmFrequency.resources
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.Resources.resources
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.vbproj.GenerateResource.Cache
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.exe
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.xml
+c:\users\beza\documents\visual studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.exe.config
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\bin\Debug\Frequencies.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.frmFrequency.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.Resources.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Frequencies\Frequencies\obj\Debug\Frequencies.vbproj.GenerateResource.Cache
