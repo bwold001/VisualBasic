@@ -1,0 +1,20 @@
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.exe.config
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.exe
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.pdb
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.xml
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.frmEggs.resources
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.Resources.resources
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.vbproj.GenerateResource.Cache
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.exe
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.xml
+c:\users\beza\documents\visual studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.exe.config
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.exe
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.pdb
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\bin\Debug\Eggs.xml
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.frmEggs.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.Resources.resources
+C:\Users\Beza\Desktop\Hard Disk\Beza\Documents\Visual Studio 2012\Projects\Eggs\Eggs\obj\Debug\Eggs.vbproj.GenerateResource.Cache
